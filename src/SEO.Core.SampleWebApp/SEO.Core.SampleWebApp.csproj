@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>SEO.SampleWebApp</AssemblyName>
+    <RootNamespace>SEO.Core.SampleWebApp</RootNamespace>
+    <UserSecretsId>27218b67-5870-4440-a258-6e5b866953a2</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SEO.Core.Model\SEO.Core.Model.csproj" />
+    <ProjectReference Include="..\SEO.Core.Process\SEO.Core.Process.csproj" />
+  </ItemGroup>
+</Project>

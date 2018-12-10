@@ -1,0 +1,15 @@
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.deps.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.runtimeconfig.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.runtimeconfig.dev.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.pdb
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.pdb
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.xml
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.csprojAssemblyReference.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.csproj.CopyComplete
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\EPPlus.Core.SampleWebApp.pdb

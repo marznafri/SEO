@@ -1,0 +1,68 @@
+﻿@model SEO.Core.Model.SEOObject
+
+@{
+    ViewData["Title"] = "RegisterSearchText";
+}
+
+<h2>Register Search Text</h2>
+
+<h4>SEO Analyzer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="RegisterSearchText"  asp-controller="SEO">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SearchText" class="control-label"></label>
+                <input asp-for="SearchText" class="form-control" />
+                <span asp-validation-for="SearchText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsURL" /> @Html.DisplayNameFor(model => model.IsURL)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsPageFilterStopWords" /> @Html.DisplayNameFor(model => model.IsPageFilterStopWords)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsCountNumberofWords" /> @Html.DisplayNameFor(model => model.IsCountNumberofWords)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsMetaTagsInfo" /> @Html.DisplayNameFor(model => model.IsMetaTagsInfo)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="IsGetExternalLink" /> @Html.DisplayNameFor(model => model.IsGetExternalLink)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,14 @@
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.csprojAssemblyReference.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.deps.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.runtimeconfig.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.runtimeconfig.dev.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\bin\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.FunctionalTests\obj\Debug\netcoreapp2.0\SEO.Core.FunctionalTests.pdb

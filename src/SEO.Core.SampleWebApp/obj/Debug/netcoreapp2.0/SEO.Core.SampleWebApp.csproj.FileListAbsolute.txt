@@ -1,0 +1,32 @@
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.deps.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.runtimeconfig.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.runtimeconfig.dev.json
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.pdb
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\EPPlus.Core.xml
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csprojAssemblyReference.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csproj.CopyComplete
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.pdb
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.SampleWebApp.dll
+C:\irfan\work\proj\experiment\EPPlus.Core-master - Copy\src\EPPlus.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.SampleWebApp.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.deps.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.runtimeconfig.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.runtimeconfig.dev.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.SampleWebApp.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.Core.Model.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.Core.Process.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.Core.Model.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\bin\Debug\netcoreapp2.0\SEO.Core.Process.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csprojAssemblyReference.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.Core.SampleWebApp.csproj.CopyComplete
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.SampleWebApp.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.SampleWebApp\obj\Debug\netcoreapp2.0\SEO.SampleWebApp.pdb

@@ -1,0 +1,17 @@
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.deps.json
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.dll
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.pdb
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.dll
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.pdb
+C:\irfan\work\proj\experiment\SEO.Core\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.csprojAssemblyReference.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.deps.json
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\bin\Debug\netcoreapp2.0\SEO.Core.Model.pdb
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.csproj.CoreCompileInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.AssemblyInfoInputs.cache
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.AssemblyInfo.cs
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.dll
+C:\irfan\work\proj\experiment\SEO.Core\src\SEO.Core.Model\obj\Debug\netcoreapp2.0\SEO.Core.Model.pdb
